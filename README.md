@@ -278,6 +278,52 @@ Public production availability, clinical effectiveness, and large-scale reliabil
 
 ---
 
+
+## Application Gallery
+
+A look inside Lunari Sleep Coach, featuring sleep tracking,
+AI-powered experiences, personal progression, and the
+Tribe ecosystem.
+
+<table>
+<tr>
+<td width="50%">
+<img src="Track%20Sleep" width="100%">
+<br><b>Sleep Tracking</b>
+<br>Sleep sessions, tracking controls, and personal sleep data.
+</td>
+<td width="50%">
+<img src="Sleep%20Coach" width="100%">
+<br><b>AI Sleep Coach</b>
+<br>Personalized conversational sleep guidance.
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="Ai%20Dream%20Lab" width="100%">
+<br><b>AI Dream Lab</b>
+<br>Dream visualization and AI-assisted creative experiences.
+</td>
+<td>
+<img src="Tribes" width="100%">
+<br><b>Tribe Ecosystem</b>
+<br>Social challenges, competition, and community progression.
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<img src="Level%20up" width="100%">
+<br><b>Progression & Rewards</b>
+<br>Gamified sleep habits, levels, and achievements.
+</td>
+</tr>
+</table>
+
+*Screenshots from the Lunari Sleep Coach application.*
+
+
 ## Future Vision
 
 Lunari's long-term vision is to create a more connected and engaging experience around sleep.
